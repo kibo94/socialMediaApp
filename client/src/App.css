@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    background-color: rgb(61, 77, 77);
+}
+
+.li {
+    transition: all ease-in 1.3s;
+}
+
+.fadeOut {
+    opacity: 0;
+}

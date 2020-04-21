@@ -1,0 +1,8 @@
+{
+    "prettier.htmlWhitespaceSensitivity": "ignore",
+    "files.associations": {
+        "*.js":"javascriptreact"
+    }
+}
+
+
